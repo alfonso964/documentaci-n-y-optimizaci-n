@@ -28,4 +28,17 @@ Aquí explicaremos cómo usar Git:
 
 ## Optimización del código
 
-(En construcción...)
+### ¿Qué es un code smell?
+
+Un code smell es un síntoma en el código que indica posibles problemas de mantenimiento.
+
+### Técnicas para optimizar:
+
+- Refactorizar funciones largas.
+- Eliminar código duplicado.
+- Mejorar nombres de variables y métodos.
+
+### Herramientas para análisis:
+
+- SonarQube
+- Linters
