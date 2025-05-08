@@ -7,10 +7,13 @@ Aquí explicaremos cómo usar Git:
 
 
 ## Áreas de trabajo GIT
-![Áreas de trabajo git](image-1.png)
 
-## Ramas en GIT
-![Ramas de trabajo en git](image-2.png)
+## Áreas de trabajo en Git
+![Áreas de trabajo en Git](https://git-scm.com/book/en/v2/images/areas.png)
+
+## Ramas en Git
+![Diagrama de ramas en Git](https://gist.githubusercontent.com/bryanbraun/8c93e154a93a08794291df1fcdce6918/raw/bf563eb36c3623bb9e7e1faae349c5da802f9fed/template-data.xml)
+
 
 ### Configuración 
 - `git config`: usado para poder configurar el nombre de usuario y el email.
