@@ -5,6 +5,13 @@ Git es un sistema de control de versiones.Permite guardar cambios realizados en 
 
 Aquí explicaremos cómo usar Git:
 
+
+## Áreas de trabajo GIT
+![Áreas de trabajo git](image-1.png)
+
+## Ramas en GIT
+![Ramas de trabajo en git](image-2.png)
+
 ### Configuración 
 - `git config`: usado para poder configurar el nombre de usuario y el email.
 
@@ -44,10 +51,11 @@ Aquí explicaremos cómo usar Git:
 - `gitLab`
 
 <p float="left">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" />
-  <img src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon.png" width="60" />
-  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" alt="GitHub Logo" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bitbucket-Logo-blue.svg" width="150" alt="Bitbucket Logo" />
+  <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="150" alt="GitLab Logo" />
 </p>
+
 ---
 
 
