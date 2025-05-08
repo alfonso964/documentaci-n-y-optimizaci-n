@@ -6,8 +6,6 @@ Git es un sistema de control de versiones.Permite guardar cambios realizados en 
 Aquí explicaremos cómo usar Git:
 
 
-## Áreas de trabajo GIT
-
 ## Áreas de trabajo en Git
 ![Áreas de trabajo en Git](https://git-scm.com/book/en/v2/images/areas.png)
 
