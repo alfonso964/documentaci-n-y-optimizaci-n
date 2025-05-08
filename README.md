@@ -9,6 +9,7 @@ Aquí explicaremos cómo usar Git:
 ## Áreas de trabajo en Git
 ![Áreas de trabajo en Git](https://git-scm.com/book/en/v2/images/areas.png)
 
+## Comandos 
 ### Configuración 
 - `git config`: usado para poder configurar el nombre de usuario y el email.
 
